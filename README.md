@@ -52,7 +52,7 @@ N50などいくつかの統計量をポータルサイトに表示するため�
 
 ブラウザで http://localhost:8000/ にアクセスすると以下のような画面が表示される。
 
-<img src="docs/images/top_page.png" width="450" />
+<img src="docs/images/top_page.png" width="600" />
 
 
 
