@@ -4,3 +4,5 @@
 （デプロイが簡単だからという理由もある）
 
 画面はApache Tiles + Bootstrap 4を使って配置する。
+
+<img src="docs/images/top_page.png" width="450" />
