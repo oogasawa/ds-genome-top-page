@@ -26,6 +26,11 @@ N50などいくつかの統計量をポータルサイトに表示するため�
 - Apache maven version 3.5.3
 - git (version 2.15.2)
 
+サーバー構成はリバースプロキシ配下にWebサーバーのクラスタがあることを前提とする。
+以下ではリバースプロキシのURLのことをbaseUrlと呼ぶこととする。
+
+<img src="docs/images/ds-genome-servers.png" width="600" />
+
 ### コンパイル方法
 
 	git clone http://gitlab.ddbj.nig.ac.jp/oogasawa/ds-genome-top-page
