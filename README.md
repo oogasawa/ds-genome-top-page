@@ -46,7 +46,7 @@ N50などいくつかの統計量をポータルサイトに表示するため�
 	    --server.port=8000 \
 	    --baseurl='http://rgm01.nig.ac.jp' 
 
-
+baseurlは、リンクの飛び先のサーバー名を表すURLである。
 
 
 ## 使い方
