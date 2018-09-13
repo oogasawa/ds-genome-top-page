@@ -10,6 +10,8 @@ N50などいくつかの統計量をポータルサイトに表示するため�
 
 ## 更新履歴
 
+- version 0.4.1
+  - リバースプロキシ構成に配備するための調整を行なった。
 - version 0.2.0
   - Spring Boot ver.5 + Apache Tiles ver.3 + Bootstrap4で基本的な機能を作成した。リンク先URLは要調整。
   
