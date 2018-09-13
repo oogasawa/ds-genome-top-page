@@ -14,7 +14,7 @@
 
     <groupId>jp.ac.nig.ddbj</groupId>
     <artifactId>ds-genome-top-page</artifactId>
-    <version>0.4.0</version>
+    <version>0.4.1</version>
     <packaging>jar</packaging>
 
     <name>spring-boot-web-mvc</name>
