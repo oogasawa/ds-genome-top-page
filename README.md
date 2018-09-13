@@ -37,6 +37,7 @@ N50などいくつかの統計量をポータルサイトに表示するため�
 
 	git clone http://gitlab.ddbj.nig.ac.jp/oogasawa/ds-genome-top-page.git
 	cd ds-genome-top-page
+	git snapshot v0.4.1
 	mvn -Dmaven.test.skip=true clean package
 	
 これによりtargetディレクトリの下にjarファイルが生成される。
