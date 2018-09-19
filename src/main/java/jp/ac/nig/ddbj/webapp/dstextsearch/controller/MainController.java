@@ -43,6 +43,9 @@ public class MainController {
 	String blatUrl;
 
 
+	@Value("${species}")
+	String species;
+
     @RequestMapping(value = "/", method=GET)
 	public ModelAndView home() {
 
@@ -52,6 +55,7 @@ public class MainController {
     	model.put("textsearchUrl", baseUrl + "/" + textsearchUrl);
     	model.put("blastUrl", baseUrl + "/" + blastUrl);
     	model.put("blatUrl", baseUrl + "/" + blatUrl);
+    	model.put("species", species);
 
     	return new ModelAndView("site.homepage", model);
 	}

@@ -3,7 +3,7 @@
 <%@ taglib uri="http://tiles.apache.org/tags-tiles" prefix="tiles" %>
 
 <div class="jumbotron text-center" id="header">
-  <h1>Volvox Genome Viewer</h1>
+  <h1><i><c:out value="${species}" /></i> Genome Viewer</h1>
   <p>Resize this responsive page to see the effect!</p>
 </div>
 
